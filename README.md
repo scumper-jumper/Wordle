@@ -1,5 +1,8 @@
-![Demo App](/public/sssss.png)
+<div align=center>
+  
+![Demo App](/sssss.png)
 
+</div>
 Wordle is a popular online word puzzle game where players try to guess a five-letter word within six attempts. After each guess, the game provides feedback:
 
 Green tiles indicate letters that are correct and in the right position.
